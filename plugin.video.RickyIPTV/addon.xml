@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.CyberIPTV" name="RickyIPTV" version="1.0.1" provider-name="RickyGY">
+    <requires>
+    </requires>
+    <extension point="xbmc.python.pluginsource"
+               library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary></summary>
+        <description>Todos os canais na lista sao econtrados atraves de pesquisas livres pela net, agradecemos a compreensao e toda a ajuda e bem vinda - </description>
+    </extension>
+</addon>
